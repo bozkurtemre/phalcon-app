@@ -1,0 +1,7 @@
+.idea
+.vscode
+.git
+.gitignore
+README.md
+docs/*
+docker/*
