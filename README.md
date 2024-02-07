@@ -28,7 +28,7 @@ switch to the relevant branch.
 
 ### Installation
 
-1. Copy project to local environment - `git clone git@github.com:emrebbozkurt/phalcon-app.git`
+1. Copy project to local environment - `git clone git@github.com:bozkurtemre/phalcon-app.git`
 2. Edit config.php file with your DB connection information
 3. Run DB migrations `php migrate migrate`
 
